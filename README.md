@@ -56,22 +56,6 @@ lab.ambiance()
 
 ---
 
-## 🔮 Research & Experiments
-
-<div align="center">
-
-[![NGO Funding Predictor](https://github-readme-stats.vercel.app/api/pin/?username=NeuroLoft&repo=SF_DATA_SCIENCE&theme=tokyonight&bg_color=0f0c29&title_color=00f2ff&icon_color=b026ff&text_color=fff&hide_border=true)](https://github.com/NeuroLoft/SF_DATA_SCIENCE)
-
-</div>
-
-### 🧪 Experiment: [NGO Funding Predictor](https://github.com/NeuroLoft/SF_DATA_SCIENCE)
-> *Decoding the probability of state support for non-profits.*
-*   **Algorithm:** CatBoost Gradient Boosting
-*   **Insight:** Interpretable AI via SHAP
-*   **Result:** High-precision forecasting model
-
----
-
 ## 📡 Current Transmission
 
 ```mermaid
