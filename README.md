@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner: Gradient Wave (Deep Purple -> Turquoise -> Gold) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3c096c,7b2cbf,9d4edd,40e0d0,ff9e00&height=320&section=header&text=NeuroLoft&fontSize=80&fontAlignY=35&desc=Architecting%20Intelligence%20in%20the%20Cloud&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="NeuroLoft Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3c096c,7b2cbf,9d4edd,40e0d0,ff9e00&height=320&section=header&text=NeuroLoft&fontSize=80&fontAlignY=35&desc=Architecting%20Intelligence%20in%20the%20Cloud&descAlignY=55&descAlign=50&fontColor=40e0d0&animation=fadeIn" alt="NeuroLoft Banner" width="100%" />
 
 <!-- Typing Effect: High-Tech Terminal Style -->
 <a href="https://git.io/typing-svg">
