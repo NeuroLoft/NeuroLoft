@@ -1,103 +1,102 @@
 <div align="center">
 
-# 👋 Привет, я Василий — Data Scientist
+# Welcome to NeuroLoft 🧠💡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Превращаю+данные+в+инсайты;Строю+ML-модели+для+бизнеса;Исследую+Computer+Vision;Оптимизирую+процессы+с+помощью+AI" alt="Typing SVG" />
+### *A cozy digital lab for Data Science & Deep Learning experiments*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Engineering+Data+Flows;Training+Neural+Networks;Turning+Raw+Info+into+Insights;Exploring+Computer+Vision" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-ecobrainstorming%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecobrainstorming@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NeuroLoft-181717?style=for-the-badge&logo=github)](https://github.com/NeuroLoft)
-[![SkillFactory](https://img.shields.io/badge/SkillFactory-Data_Science-green?style=for-the-badge)](https://skillfactory.ru/)
 
 </div>
 
 ---
 
-## 🧠 О NeuroLoft
+## 🧪 About The Lab
 
-> **NeuroLoft** — это моя цифровая лаборатория, где структуры данных встречаются с креативностью.  
-> Здесь я проектирую потоки данных, обучаю нейронные сети и превращаю сырую информацию в ценные инсайты.
+> **Welcome to my personal workspace where data structures meet creativity.**  
+> Here at **NeuroLoft**, I engineer data flows, train neural networks, and turn raw information into valuable insights.
 
 ```python
-class DataScientist:
+class NeuroLoft:
     def __init__(self):
-        self.name = "Василий Кокорин"
-        self.role = "Data Scientist"
-        self.location = "Russia 🇷🇺"
-        self.motto = "Минимализм, красота и эффективность"
+        self.type = "Digital Lab"
+        self.mission = "Data Science & Deep Learning experiments"
+        self.location = "Worldwide 🌍"
+        self.vibe = "Minimalism, Beauty, Efficiency"
         
-    def get_skills(self):
+    def get_toolkit(self):
         return {
-            "languages": ["Python", "SQL"],
-            "ml_frameworks": ["Scikit-learn", "CatBoost", "XGBoost"],
-            "dl_frameworks": ["PyTorch", "TensorFlow", "Keras"],
-            "data_tools": ["Pandas", "NumPy", "SciPy"],
-            "visualization": ["Matplotlib", "Seaborn", "Plotly"],
+            "core": ["Python", "SQL"],
+            "data_science": ["Pandas", "NumPy", "Scikit-learn"],
+            "deep_learning": ["PyTorch", "TensorFlow", "Keras"],
             "engineering": ["Docker", "Airflow", "PostgreSQL"],
-            "interpretability": ["SHAP", "LIME"]
+            "viz": ["Matplotlib", "Seaborn", "Plotly"]
         }
     
-    def current_focus(self):
-        return [
-            "🔭 Исследую архитектуры Computer Vision",
-            "🚀 Строю масштабируемые ETL-пайплайны",
-            "⚡ Оптимизирую инференс моделей для продакшена"
-        ]
+    def current_status(self):
+        return "Building scalable solutions & Exploring AI frontiers"
 
-me = DataScientist()
+lab = NeuroLoft()
 ```
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠 Tech Stack & Tools
 
 <div align="center">
 
-### Языки программирования
+### Core & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Визуализация
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Инфраструктура
+### Engineering & Viz
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Инструменты
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Статистика
+## 🔭 Current Focus
+
+```mermaid
+graph LR
+    A[👁️ Computer Vision] --> D[🎯 NeuroLoft Goals]
+    B[🚀 Scalable ETL] --> D
+    C[⚡ Model Inference] --> D
+    D --> E[🌍 Digital Nomad Life]
+```
+
+*   **Exploring** Computer Vision architectures.
+*   **Building** scalable ETL pipelines.
+*   **Optimizing** model inference for production.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeuroLoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroLoft&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeuroLoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroLoft&layout=compact&langs_count=6&theme=tokyonight&hide_title=true"/>
 
 </div>
 
 ---
 
-## 🏆 Избранные проекты
+## 🏆 Featured Work
 
 <div align="center">
 
@@ -105,95 +104,11 @@ me = DataScientist()
 
 </div>
 
-### 🔮 [Прогнозирование госфинансирования НКО](https://github.com/NeuroLoft/SF_DATA_SCIENCE)
-> Дипломный проект SkillFactory DST-189
-
-**Задача:** Построить ML-модель для прогнозирования вероятности получения грантов и госконтрактов НКО.
-
-**Результаты:**
-- ✅ ROC-AUC: **0.78** (превышает baseline на 56%)
-- ✅ Подтверждены все статистические гипотезы (χ²-тест, Mann-Whitney)
-- ✅ Реализована интерпретация через SHAP values
-- ✅ 9+ профессиональных визуализаций
-
-**Стек:** `Python` `Pandas` `Scikit-learn` `CatBoost` `SHAP` `Matplotlib`
-
----
-
-## 💼 Экспертиза
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Machine Learning
-- Классификация (бинарная/мультиклассовая)
-- Регрессия (линейная/нелинейная)
-- Работа с несбалансированными данными
-- Ансамблирование (Bagging, Boosting)
-- Feature Engineering
-- Hyperparameter Tuning
-
-</td>
-<td width="50%">
-
-### 🧪 Статистика & Анализ
-- A/B тестирование
-- Проверка гипотез (χ², t-test, Mann-Whitney)
-- Корреляционный анализ
-- EDA (Exploratory Data Analysis)
-- Работа с пропусками и выбросами
-- Визуализация инсайтов
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 Deep Learning
-- Computer Vision (CNN)
-- Transfer Learning
-- Оптимизация архитектур
-- Работа с градиентами
-- Аугментация данных
-
-</td>
-<td width="50%">
-
-### ⚙️ Data Engineering
-- ETL/ELT пайплайны
-- Оптимизация запросов SQL
-- Работа с большими данными
-- Docker-контейнеризация
-- Оркестрация (Airflow)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Текущий фокус
-
-```mermaid
-graph LR
-    A[🔭 Computer Vision] --> D[🎯 Мастерство]
-    B[🚀 ETL Pipelines] --> D
-    C[⚡ Model Optimization] --> D
-    D --> E[💼 Production-Ready ML]
-```
-
-- 🔭 **Computer Vision:** Изучаю современные архитектуры (ResNet, EfficientNet, Vision Transformers)
-- 🚀 **ETL Pipelines:** Проектирую масштабируемые пайплайны обработки данных
-- ⚡ **Optimization:** Ускоряю инференс моделей для продакшена (ONNX, TensorRT)
-
----
-
-## 📚 Образование
-
-🎓 **SkillFactory** — Специализация Data Science (DST-189)  
-📅 2024-2025  
-💼 Дипломный проект: Прогнозирование получения государственного финансирования НКО
+### 🔮 [NGO Funding Predictor](https://github.com/NeuroLoft/SF_DATA_SCIENCE)
+**Objective:** Predict state funding probability for Non-Profit Organizations using ML.
+*   ✅ **ROC-AUC: 0.78**
+*   ✅ Statistical Hypothesis Testing
+*   ✅ SHAP Interpretability
 
 ---
 
@@ -201,33 +116,7 @@ graph LR
 
 <div align="center">
 
-```python
-def neuroloft_philosophy():
-    coffee = "strong ☕"
-    learning_rate = "just right 📈"
-    
-    return f"Здесь {coffee} и {learning_rate}"
-
-print(neuroloft_philosophy())
-# >>> Здесь strong ☕ и just right 📈
-```
-
-</div>
-
----
-
-## 📫 Связь
-
-<div align="center">
-
-Открыт к интересным проектам и сотрудничеству!
-
-[![Email](https://img.shields.io/badge/📧_Email-ecobrainstorming%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecobrainstorming@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-NeuroLoft-181717?style=for-the-badge&logo=github)](https://github.com/NeuroLoft)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=NeuroLoft&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+> *"Inside NeuroLoft, the coffee is strong, and the learning rate is just right."* ☕📈
 
 </div>
 
@@ -235,8 +124,8 @@ print(neuroloft_philosophy())
 
 <div align="center">
 
-### 💡 *"Минимализм, красота и эффективность"*
+[![Email](https://img.shields.io/badge/Contact_Me-ecobrainstorming%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecobrainstorming@gmail.com)
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://komarev.com/ghpvc/?username=NeuroLoft&color=blueviolet&style=flat-square&label=VISITORS" alt="Profile views"/>
 
 </div>
