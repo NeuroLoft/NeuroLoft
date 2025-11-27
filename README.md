@@ -57,11 +57,11 @@ user_profile:
 system_specs:
   architecture: ["Deep Learning", "Computer Vision", "NLP"]
   philosophy: "Minimalism • Efficiency • Aesthetics"
-  current_state: "Training Models..."
+  current_state: "Open to Contracts 🟢"
 
 environment:
   music: ["Lo-Fi Beats", "Synthwave", "Ambient"]
-  fuel: ["Espresso", "GPU Compute", "Ideas"]
+  fuel: ["Funding 💰", "Espresso", "GPU Compute"]
 ```
 
 ---
