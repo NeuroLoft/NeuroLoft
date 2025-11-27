@@ -103,7 +103,7 @@ environment:
 
 <div align="center">
 
-### *"Where algorithms dream in neon and gold."*
+### *"Shelter from the storm: warm coffee and deep code."*
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9e00,40e0d0,9d4edd,7b2cbf,3c096c,240046&height=120&section=footer" width="100%" />
