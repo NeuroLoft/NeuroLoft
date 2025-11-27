@@ -86,11 +86,11 @@ graph TD
 
 <div align="center">
 
-### *"The code is dark and full of errors... but we have the debugger."*
+### *"In the soft violet glow, we weave logic into dreams."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer)
 
-[![Email](https://img.shields.io/badge/Signal_Me-ecobrainstorming%40gmail.com-00f2ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ecobrainstorming@gmail.com)
+[![Email](https://img.shields.io/badge/Signal_Me-ecobrainstorming%40gmail.com-ff9e00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ecobrainstorming@gmail.com)
 
 </div>
 
