@@ -5,7 +5,7 @@
 
 <!-- Typing Effect: High-Tech Terminal Style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=40E0D0&center=true&vCenter=true&width=600&lines=Initializing+Neural+Interface...;Loading+Modules:+Data+Science+%7C+MLOps;Status:+Digital+Nomad+%5BOnline%5D;System+Ready." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=40E0D0&center=true&vCenter=true&width=600&lines=Initializing+Neural+Interface...;Loading+Modules:+Data+Science+%7C+MLOps;Status:+System+Under+Construction...;Compiling+Knowledge+Base..." alt="Typing SVG" />
 </a>
 
 <!-- Social/Contact Badges with Custom Styles -->
@@ -52,12 +52,12 @@
 user_profile:
   codename: "NeuroLoft"
   role: "Data Alchemist & ML Engineer"
-  location: "Global Network Node (Digital Nomad)"
+  location: "Local Research Lab (Base Station)"
   
 system_specs:
   architecture: ["Deep Learning", "Computer Vision", "NLP"]
   philosophy: "Minimalism • Efficiency • Aesthetics"
-  current_state: "Open to Contracts 🟢"
+  current_state: "Deep Work Mode 🟡"
 
 environment:
   music: ["Lo-Fi Beats", "Synthwave", "Ambient"]
