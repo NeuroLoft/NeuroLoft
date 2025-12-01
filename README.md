@@ -101,6 +101,18 @@ environment:
 
 ---
 
+## 💳 Financial Tools
+
+<div align="center">
+
+[![CinCin Crypto Card](https://img.shields.io/badge/CinCin_Card-Apply_Now-40e0d0?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=240046)](https://aff.cincin.exchange/s/v6JKT)
+
+**[Get Global Crypto Card](https://aff.cincin.exchange/s/v6JKT)** • **[Get RUB Crypto Card](https://aff.cincin.exchange/s/q6JKU)**
+
+</div>
+
+---
+
 <div align="center">
 
 ### *"Shelter from the storm: warm coffee and deep code."*
